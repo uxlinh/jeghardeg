@@ -1,0 +1,22 @@
+{
+  "name": "jeghardeg",
+  "version": "1.0.0",
+  "description": "landingpage for jeghardeg",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/compile.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxlinh/jeghardeg.git"
+  },
+  "author": "linh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uxlinh/jeghardeg/issues"
+  },
+  "homepage": "https://github.com/uxlinh/jeghardeg#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
