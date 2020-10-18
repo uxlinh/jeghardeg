@@ -1,8 +1,5 @@
 @import "abstracts/mixins";
 
-@import "components/dropdown";
-@import "components/slagord";
-
 @import "base/base";
 @import "base/colors";
 @import "base/typography";
@@ -11,3 +8,7 @@
 @import "layout/header";
 @import "layout/main";
 @import "layout/footer";
+
+@import "components/dropdown";
+@import "components/slagord";
+

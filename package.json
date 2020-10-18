@@ -4,7 +4,7 @@
   "description": "landingpage for jeghardeg",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/compile.scss css/style.css -w"
+    "compile:sass": "node-sass sass/compile.scss css/index.css -w"
   },
   "repository": {
     "type": "git",
