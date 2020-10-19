@@ -6,7 +6,7 @@ const map = new mapboxgl.Map({
 container: 'kartet', //fordi id="kartet" i hmtl
 style: 'mapbox://styles/mapbox/streets-v11',
 zoom: 6,
-center: [10.774653, 59.918145],
+center: [18.981889, 69.575615],
 });
 
 const innsamlinger = [
