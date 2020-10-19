@@ -54,6 +54,11 @@ li:hover {
     color: $color-secondary;
     font-family: $body;
     font-size: $default-font-size;
+    
+    @include respond(phone){
+        font-size: 1.6rem;
+    }
+
 }
 
 .dropdown-btn {
@@ -69,6 +74,10 @@ li:hover {
     font-size: $default-font-size;
     font-family: $body;
     color: $color-secondary;
+
+    @include respond(phone){
+        font-size: 1.6rem;
+    }
 }
 
 .box .dropdown-btn:focus + .dropdown-content{

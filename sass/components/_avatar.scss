@@ -6,5 +6,9 @@
 
     &__img{
         max-width: 110px;
+
+        @include respond(tab-port){
+            max-width: 90px;
+        }
     }
 }

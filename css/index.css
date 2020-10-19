@@ -42,6 +42,9 @@ body {
     @media (max-width: 56.25em) {
       .heading-primary--main {
         font-size: 7rem; } }
+    @media (max-width: 37.5em) {
+      .heading-primary--main {
+        font-size: 5rem; } }
   .heading-primary--sub {
     font-family: "Merriweather", serif;
     font-size: 2.4rem;
@@ -63,7 +66,7 @@ body {
       font-size: 3rem; } }
   @media (max-width: 37.5em) {
     .heading-secondary {
-      font-size: 2rem; } }
+      font-size: 2.6rem; } }
   .heading-secondary--light {
     color: #f7f7f7; }
   .heading-secondary--dark {
@@ -84,13 +87,16 @@ body {
   margin-bottom: 3rem; }
   @media (max-width: 56.25em) {
     .body {
-      font-size: 1.6rem; } }
+      font-size: 1.8rem; } }
   .body-white {
     color: #f7f7f7; }
   .body-blue {
     color: #123B77; }
   .body-black {
     color: #000; }
+    @media (max-width: 37.5em) {
+      .body-black {
+        font-size: 1.6rem; } }
   .body-footer {
     font-size: 1.5rem;
     color: #123B77;
@@ -186,6 +192,7 @@ a {
   width: 100%;
   align-items: center;
   justify-items: center;
+  justify-content: center;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-auto-rows: 1fr;
   column-gap: 2rem;
@@ -244,6 +251,9 @@ li:hover {
   color: #123B77;
   font-family: "Poppins", sans-serif;
   font-size: 2rem; }
+  @media (max-width: 37.5em) {
+    .landsdel {
+      font-size: 1.6rem; } }
 
 .dropdown-btn {
   width: 35vw;
@@ -257,6 +267,9 @@ li:hover {
   font-size: 2rem;
   font-family: "Poppins", sans-serif;
   color: #123B77; }
+  @media (max-width: 37.5em) {
+    .dropdown-btn {
+      font-size: 1.6rem; } }
 
 .box .dropdown-btn:focus + .dropdown-content {
   opacity: 1;
@@ -273,7 +286,7 @@ li:hover {
   @media (max-width: 56.25em) {
     .slagord-container {
       grid-template-columns: 1fr;
-      row-gap: 1.5rem; } }
+      row-gap: 1rem; } }
 
 .item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -294,3 +307,6 @@ li:hover {
   align-items: center; }
   .avatar__img {
     max-width: 110px; }
+    @media (max-width: 56.25em) {
+      .avatar__img {
+        max-width: 90px; } }

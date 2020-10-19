@@ -14,6 +14,9 @@ $body: 'Poppins', sans-serif;
         @include respond(tab-port){
             font-size: 7rem;
         }
+        @include respond(phone){
+            font-size: 5rem;
+        }
     }
 
     &--sub {
@@ -43,7 +46,7 @@ $body: 'Poppins', sans-serif;
     }
 
     @include respond(phone){
-        font-size: 2rem;
+        font-size: 2.6rem;
     }
     
     &--light{
@@ -70,7 +73,7 @@ $body: 'Poppins', sans-serif;
     margin-bottom: 3rem;
 
     @include respond(tab-port){
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     }
 
     &-white {
@@ -83,6 +86,9 @@ $body: 'Poppins', sans-serif;
 
     &-black {
         color: $color-black;
+        @include respond(phone){
+            font-size: 1.6rem;
+        }
     }
     &-footer{
         font-size: 1.5rem;
