@@ -7,24 +7,27 @@
     width: 100vw;
 }
 
-.kart__logo{
-    font-family: $title;
-    color: $color-white;
-    font-size: 2rem;
-}
 
-.nav{
+
+.navkart{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 2rem;
+    padding: 1.5rem;
+
+    &__logo{
+        font-family: $title;
+        color: $color-white;
+        font-size: 2rem;
+    }
 
     &__some{
         display: flex;
         flex-direction: row;
     }
     &__icon {
-        width: 70%;
+        width: 4rem;
+        padding-left: .8rem;
     }
 }
 #landsdelKnapper{

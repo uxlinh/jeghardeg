@@ -333,21 +333,21 @@ li:hover {
   height: 100vh;
   width: 100vw; }
 
-.kart__logo {
-  font-family: "Merriweather", serif;
-  color: #f7f7f7;
-  font-size: 2rem; }
-
-.nav {
+.navkart {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 2rem; }
-  .nav__some {
+  padding: 1.5rem; }
+  .navkart__logo {
+    font-family: "Merriweather", serif;
+    color: #f7f7f7;
+    font-size: 2rem; }
+  .navkart__some {
     display: flex;
     flex-direction: row; }
-  .nav__icon {
-    width: 70%; }
+  .navkart__icon {
+    width: 4rem;
+    padding-left: .8rem; }
 
 #landsdelKnapper {
   width: 15rem;
