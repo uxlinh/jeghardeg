@@ -2,25 +2,31 @@
     background-color: $color-secondary;
 }
 
-main{
+.main__kart{
     height: 100vh;
     width: 100vw;
 }
 
+.kart__logo{
+    font-family: $title;
+    color: $color-white;
+    font-size: 2rem;
+}
+
 .nav{
-    height: 7vh;
-}
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
 
-button {
-    padding: 1rem;
-    margin: 1rem;
+    &__some{
+        display: flex;
+        flex-direction: row;
+    }
+    &__icon {
+        width: 70%;
+    }
 }
-
-#kartet {
-    width: 100vw;
-    height: 95vh;
-}
-
 #landsdelKnapper{
     width: 15rem;
     display: block;
@@ -28,9 +34,30 @@ button {
 
     position: absolute;
     right: 1rem;
-    bottom: 10rem;
+    top: 8.5rem;
 
 }
+.landsdel-btn {
+    padding: 1rem;
+    margin: .5rem;
+
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 1px 1px 10px #707070be;
+    
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-family: $body;
+    color: $color-secondary;
+}
+
+#kartet {
+    width: 100vw;
+    height: 95vh;
+}
+
+
 
 .innsamlingMarker {
     width: 60px;
@@ -38,7 +65,7 @@ button {
     background-size: cover; 
 }
 
-img {
+.kart-avatar {
     width: 30%;
     height: 30%; 
 }

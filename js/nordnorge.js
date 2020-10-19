@@ -49,7 +49,7 @@ const addMarker = (innsamlinger) => {
     div.style.backgroundImage = `url(${innsamlinger.avatarUrl})`
     
     minPopup.setHTML(`
-    <img src="${innsamlinger.avatarUrl}" alt="bilde">
+    <img class="kart-avatar" src="${innsamlinger.avatarUrl}" alt="bilde">
     <h3>${innsamlinger.navn}</h3>
     <p>${innsamlinger.tekst}</p>
     `)

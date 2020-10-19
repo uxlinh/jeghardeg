@@ -14,33 +14,40 @@
 
 <body class="body__kart">
 
-<main>
-    <nav class="nav">
-        <h2 class="heading heading-secondary--light">#jeghardeg</h2>
-        
-    </nav>
+    <main class="main__kart">
+    
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav__logo">
+                <h4 class="kart__logo">#jeghardeg</h4>
+            </div>
+            <div class="nav__some">
+                <a href="#"><img class="nav__icon" src="../img/facebook.svg" alt="Facebook ikon"></a>
+                <a href="#"><img class="nav__icon" src="../img/instagram.svg" alt="Instagram ikon"></a>
+            </div>
+        </nav>
 
-    <div id="kartet">
+        <div id="kartet">
 
-    </div>
+        </div>
 
-    <div id="landsdelKnapper">
-        <button data-lng="10.779949" , data-lat="59.914087">Nord-Norge
-        </button>
+        <div id="landsdelKnapper">
+            <button data-lng="10.779949" , data-lat="59.914087" class="landsdel-btn">Nord-Norge
+            </button>
 
-        <button data-lng="10.199239" , data-lat="59.921052">Trøndelag
-        </button>
+            <button data-lng="10.199239" , data-lat="59.921052" class="landsdel-btn">Trøndelag
+            </button>
 
-        <button data-lng="10.953983" , data-lat="59.924471">Vestlandet
-        </button>
+            <button data-lng="10.953983" , data-lat="59.924471" class="landsdel-btn">Vestlandet
+            </button>
 
-        <button data-lng="10.766111" , data-lat="59.921515">Østlandet
-        </button>
+            <button data-lng="10.766111" , data-lat="59.921515" class="landsdel-btn">Østlandet
+            </button>
 
-        <button data-lng="10.766111" , data-lat="59.921515">Sørlandet
-        </button>
-    </div>
-</main>
+            <button data-lng="10.766111" , data-lat="59.921515" class="landsdel-btn">Sørlandet
+            </button>
+        </div>
+    </main>
 
     <script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
     <script src="../js/nordnorge.js"></script>
