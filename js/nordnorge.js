@@ -11,30 +11,31 @@ center: [10.774653, 59.918145],
 
 const innsamlinger = [
     {
-        navn: "Jacqueline",
         avatarUrl: '../img/jacqueline.png',
-        tekst: "Hei",
+        navn: "God jul, lille venn",
+        by: "Drammen",
+        link: "https://www.facebook.com/events/299953364576491",
         lng: 10.779949,
         lat: 59.914087
     },
     {
-        navn: "Amanda",
         avatarUrl: "../img/amanda.png",
-        tekst: "Hei",
+        navn: "Amanda",
+        link: "Hei",
         lng: 10.953983,
         lat: 59.924471
     },
     {
-        navn: "Christina",
         avatarUrl: '../img/christina.png',
-        tekst: "Hei",
+        navn: "Christina",
+        link: "Hei",
         lng: 10.199239,
         lat: 59.921052
     },
     {
-        navn: "Linh",
         avatarUrl: '../img/linh.png',
-        tekst: "Hei",
+        navn: "Linh",
+        link: "Hei",
         lng: 10.766111,
         lat: 59.921515
     },
@@ -52,7 +53,11 @@ const addMarker = (innsamlinger) => {
     <div class="popup-container">
         <img class="kart-avatar" src="${innsamlinger.avatarUrl}" alt="bilde">
         <h3>${innsamlinger.navn}</h3>
-        <p>${innsamlinger.tekst}</p>
+        <p>${innsamlinger.by}</p>
+        <div>
+        <h3>Link:</h3>
+        <a href="${innsamlinger.link}">${innsamlinger.link}</a>
+        </div>
     </div>
     `)
     marker.setLngLat([innsamlinger.lng, innsamlinger.lat])
