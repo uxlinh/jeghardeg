@@ -5,11 +5,45 @@
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width' , initial-scale='1.0'>
     <meta http-equiv='X-UA-Compatible' content='ie=edge'>
-    <title>Document</title>
-    <link rel='stylesheet' href='index.css'>
+    <title>Kart</title>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel='stylesheet' href='../css/index.css'>
 </head>
 
-<body>
+
+
+<body class="body__kart">
+
+<main>
+    <nav class="nav">
+        <h2 class="heading heading-secondary--light">#jeghardeg</h2>
+        
+    </nav>
+
+    <div id="kartet">
+
+    </div>
+
+    <div id="landsdelKnapper">
+        <button data-lng="10.779949" , data-lat="59.914087">Nord-Norge
+        </button>
+
+        <button data-lng="10.199239" , data-lat="59.921052">Trøndelag
+        </button>
+
+        <button data-lng="10.953983" , data-lat="59.924471">Vestlandet
+        </button>
+
+        <button data-lng="10.766111" , data-lat="59.921515">Østlandet
+        </button>
+
+        <button data-lng="10.766111" , data-lat="59.921515">Sørlandet
+        </button>
+    </div>
+</main>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+    <script src="../js/nordnorge.js"></script>
 </body>
 
 </html>
