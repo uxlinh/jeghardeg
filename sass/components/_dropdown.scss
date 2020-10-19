@@ -85,10 +85,6 @@ li:hover {
     }
 }
 
-.dropdown-btn:hover{
-    transform: translateY(-.5rem);
-    box-shadow: 1px 1px 19px #00000042;
-}
 
 .box .dropdown-btn:focus + .dropdown-content{
     opacity: 1;

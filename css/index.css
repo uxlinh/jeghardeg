@@ -281,10 +281,6 @@ li:hover {
     .dropdown-btn {
       font-size: 1.6rem; } }
 
-.dropdown-btn:hover {
-  transform: translateY(-0.5rem);
-  box-shadow: 1px 1px 19px #00000042; }
-
 .box .dropdown-btn:focus + .dropdown-content {
   opacity: 1;
   transform: translateY(0px);
