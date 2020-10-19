@@ -381,7 +381,8 @@ li:hover {
 
 .mapboxgl-popup-content {
   padding: 1rem;
-  min-width: 50rem; }
+  min-width: 50rem;
+  text-align: center; }
 
 .mapboxgl-popup-close-button {
   padding: 2rem; }
@@ -392,5 +393,6 @@ li:hover {
   background-size: cover; }
 
 .kart-avatar {
-  width: 30%;
-  height: 30%; }
+  width: 20%;
+  height: 20%;
+  padding-bottom: 2rem; }

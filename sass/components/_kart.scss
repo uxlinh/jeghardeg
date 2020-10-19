@@ -71,6 +71,7 @@
 .mapboxgl-popup-content{
     padding: 1rem;
     min-width: 50rem;
+    text-align: center;
 }
 
 .mapboxgl-popup-close-button{
@@ -84,6 +85,7 @@
 }
 
 .kart-avatar {
-    width: 30%;
-    height: 30%; 
+    width: 20%;
+    height: 20%; 
+    padding-bottom: 2rem;
 }

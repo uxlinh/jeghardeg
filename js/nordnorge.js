@@ -11,33 +11,52 @@ center: [10.774653, 59.918145],
 
 const innsamlinger = [
     {
-        avatarUrl: '../img/jacqueline.png',
+        avatarUrl: "../img/gaveicon.svg",
         navn: "God jul, lille venn",
         by: "Drammen",
         link: "https://www.facebook.com/events/299953364576491",
-        lng: 10.779949,
-        lat: 59.914087
+        lng: 10.205373,
+        lat: 59.735535
     },
     {
-        avatarUrl: "../img/amanda.png",
-        navn: "Amanda",
-        link: "Hei",
-        lng: 10.953983,
-        lat: 59.924471
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "God jul, lille venn",
+        by: "Lier",
+        link: "https://www.facebook.com/events/2083795035083929/",
+        lng: 10.303734,
+        lat: 59.810786
     },
     {
-        avatarUrl: '../img/christina.png',
-        navn: "Christina",
-        link: "Hei",
-        lng: 10.199239,
-        lat: 59.921052
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "God Jul, lille venn",
+        by: "Øvre Eiker",
+        link: "https://www.facebook.com/events/347435896702633/",
+        lng: 9.909805,
+        lat: 59.776149
     },
     {
-        avatarUrl: '../img/linh.png',
-        navn: "Linh",
-        link: "Hei",
-        lng: 10.766111,
-        lat: 59.921515
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Med hjerte for Solør",
+        by: "Solør",
+        link: "https://www.facebook.com/Hjerteforsolor/",
+        lng: 12.070018,
+        lat: 60.608775
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ringerike Frivillighetssentral",
+        by: "Ringerike",
+        link: "https://ringerike.frivilligsentral.no/aktivitet?julegaveinnsamling&Id=3228",
+        lng: 10.259873,
+        lat: 60.171106
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Hjelpende hender",
+        by: " ",
+        link: "https://www.facebook.com/Hjelpende-hender-124622254361388",
+        lng: 11.001599,
+        lat: 59.980591
     },
 ]
 
@@ -55,7 +74,7 @@ const addMarker = (innsamlinger) => {
         <h3>${innsamlinger.navn}</h3>
         <p>${innsamlinger.by}</p>
         <div>
-        <h3>Link:</h3>
+        <h4>Link:</h4>
         <a href="${innsamlinger.link}">${innsamlinger.link}</a>
         </div>
     </div>
@@ -82,7 +101,7 @@ const flyTil = (evt) => {
 
     map.flyTo({
         center: [lng, lat],
-        zoom: 14
+        zoom: 6
     })
 }
 
