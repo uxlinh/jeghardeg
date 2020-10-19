@@ -5,36 +5,36 @@ const landsdelKnapper = document.querySelector("#landsdelKnapper")
 const map = new mapboxgl.Map({
 container: 'kartet', //fordi id="kartet" i hmtl
 style: 'mapbox://styles/mapbox/streets-v11',
-zoom: 10,
+zoom: 6,
 center: [10.774653, 59.918145],
 });
 
 const innsamlinger = [
     {
         navn: "Jacqueline",
-        tekst: "Hei",
         avatarUrl: '../img/jacqueline.png',
+        tekst: "Hei",
         lng: 10.779949,
         lat: 59.914087
     },
     {
         navn: "Amanda",
-        tekst: "Hei",
         avatarUrl: "../img/amanda.png",
+        tekst: "Hei",
         lng: 10.953983,
         lat: 59.924471
     },
     {
         navn: "Christina",
-        tekst: "Hei",
         avatarUrl: '../img/christina.png',
+        tekst: "Hei",
         lng: 10.199239,
         lat: 59.921052
     },
     {
         navn: "Linh",
-        tekst: "Hei",
         avatarUrl: '../img/linh.png',
+        tekst: "Hei",
         lng: 10.766111,
         lat: 59.921515
     },
@@ -49,9 +49,11 @@ const addMarker = (innsamlinger) => {
     div.style.backgroundImage = `url(${innsamlinger.avatarUrl})`
     
     minPopup.setHTML(`
-    <img class="kart-avatar" src="${innsamlinger.avatarUrl}" alt="bilde">
-    <h3>${innsamlinger.navn}</h3>
-    <p>${innsamlinger.tekst}</p>
+    <div class="popup-container">
+        <img class="kart-avatar" src="${innsamlinger.avatarUrl}" alt="bilde">
+        <h3>${innsamlinger.navn}</h3>
+        <p>${innsamlinger.tekst}</p>
+    </div>
     `)
     marker.setLngLat([innsamlinger.lng, innsamlinger.lat])
     marker.addTo(map) 

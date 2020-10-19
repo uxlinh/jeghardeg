@@ -7,8 +7,6 @@
     width: 100vw;
 }
 
-
-
 .navkart{
     display: flex;
     align-items: center;
@@ -30,6 +28,7 @@
         padding-left: .8rem;
     }
 }
+
 #landsdelKnapper{
     width: 15rem;
     display: block;
@@ -60,7 +59,21 @@
     height: 95vh;
 }
 
+.popup-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 10rem;
+    padding: 0;
+}
 
+.mapboxgl-popup-content{
+    padding: 2rem;
+}
+
+.mapboxgl-popup-close-button{
+    padding: 2rem;
+}
 
 .innsamlingMarker {
     width: 60px;
