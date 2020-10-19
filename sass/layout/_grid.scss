@@ -38,6 +38,10 @@
 .col-4-to-10{
     grid-column: 4 / 10;
     padding: 8rem 0;
+
+    @include respond(tab-port){
+        grid-column: 3 / 11;
+    }
 }
 
 .background-blue {

@@ -44,8 +44,7 @@ li:hover {
     background-color: #eaf6ff;
 }
 
-a.landsdel {
-    text-decoration: none;
+.landsdel {
     width: 100%;
     height: 100%;
     display: flex;
@@ -58,12 +57,13 @@ a.landsdel {
 }
 
 .dropdown-btn {
-    width: 30vw;
+    width: 35vw;
     padding-top: 1rem;
     padding-bottom: 1rem;
     border-radius: 5px;
     cursor: pointer;
     border: none;
+    box-shadow: 1px 1px 19px #707070be;
     
     text-decoration: none;
     font-size: $default-font-size;

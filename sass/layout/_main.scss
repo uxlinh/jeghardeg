@@ -1,0 +1,22 @@
+.profile-container{
+    display: grid;
+    position: relative;
+    height: 60%;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-auto-rows: 1fr;
+    column-gap: 2rem;
+    row-gap: 2rem;
+
+    padding-top: 3rem;
+    @include respond(tab-port){
+        grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    }
+
+    @include respond(phone){
+        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+    }
+}
