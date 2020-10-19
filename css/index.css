@@ -60,7 +60,7 @@ body {
   font-size: 4.5rem;
   font-weight: 700;
   color: #f7f7f7;
-  margin-bottom: 2rem; }
+  margin-bottom: 5rem; }
   @media (max-width: 56.25em) {
     .heading-secondary {
       font-size: 3rem; } }
@@ -82,9 +82,9 @@ body {
 
 .body {
   font-family: "Poppins", sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 300;
-  margin-bottom: 3rem; }
+  margin-bottom: 2rem; }
   @media (max-width: 56.25em) {
     .body {
       font-size: 1.8rem; } }
@@ -112,7 +112,7 @@ body {
   text-align: justify; }
 
 span {
-  font-weight: 800;
+  font-weight: 600;
   color: #f7f7f7; }
 
 a {
@@ -153,7 +153,7 @@ a {
 
 .col-4-to-10 {
   grid-column: 4 / 10;
-  padding: 8rem 0; }
+  padding: 16rem 0; }
   @media (max-width: 56.25em) {
     .col-4-to-10 {
       grid-column: 3 / 11; } }
@@ -208,9 +208,7 @@ a {
 .dropdown-container {
   height: 10vh;
   width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center; }
+  display: flex; }
 
 .box {
   position: relative; }
@@ -256,7 +254,7 @@ li:hover {
       font-size: 1.6rem; } }
 
 .dropdown-btn {
-  width: 35vw;
+  width: 34vw;
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-radius: 5px;
@@ -266,10 +264,14 @@ li:hover {
   text-decoration: none;
   font-size: 2rem;
   font-family: "Poppins", sans-serif;
-  color: #123B77; }
+  color: #123B77;
+  transition: all 0.4s ease; }
   @media (max-width: 37.5em) {
     .dropdown-btn {
       font-size: 1.6rem; } }
+
+.dropdown-btn:hover {
+  transform: translateY(-0.5rem); }
 
 .box .dropdown-btn:focus + .dropdown-content {
   opacity: 1;
@@ -278,24 +280,25 @@ li:hover {
 
 .slagord-container {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 8fr;
   column-gap: 2rem;
-  row-gap: 2rem;
+  row-gap: 4rem;
   width: 100%;
-  z-index: 3; }
-  @media (max-width: 56.25em) {
-    .slagord-container {
-      grid-template-columns: 1fr;
-      row-gap: 1rem; } }
+  z-index: 3;
+  margin-top: 6rem;
+  margin-bottom: 3rem; }
 
 .item {
-  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
   font-size: 30px;
-  text-align: center;
-  height: 10vh; }
+  text-align: left; }
+  @media (max-width: 56.25em) {
+    .item-icon {
+      justify-content: center; } }
 
 .line {
-  height: 0.3px;
+  height: 0.2px;
   width: 100%;
   background-color: rgba(18, 59, 119, 0.405);
   margin-top: 2em;
