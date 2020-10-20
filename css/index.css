@@ -179,7 +179,7 @@ a {
     top: 0rem;
     left: 1.4rem;
     width: 9rem; }
-    @media (max-width: 56.25em) {
+    @media (max-width: 37.5em) {
       .header__julekule1 {
         width: 5rem;
         left: 1rem; } }
@@ -188,7 +188,7 @@ a {
     top: 0rem;
     left: 15rem;
     width: 9rem; }
-    @media (max-width: 56.25em) {
+    @media (max-width: 37.5em) {
       .header__julekule2 {
         left: 9rem;
         width: 5rem; } }
@@ -197,7 +197,7 @@ a {
     top: 0rem;
     left: 9rem;
     width: 10rem; }
-    @media (max-width: 56.25em) {
+    @media (max-width: 37.5em) {
       .header__julekule3 {
         width: 5rem;
         left: 5rem; } }
