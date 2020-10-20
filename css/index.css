@@ -95,6 +95,9 @@ body {
     .body {
       font-size: 1.8rem;
       margin-bottom: 1.5rem; } }
+  @media (max-width: 37.5em) {
+    .body {
+      font-size: 1.8rem; } }
   .body-white {
     color: #f7f7f7;
     margin-bottom: 1.5rem; }
