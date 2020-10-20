@@ -63,9 +63,12 @@ li:hover {
     align-items: center;
     justify-content: space-between;
 
-    width: 50rem;
+    width: 30vw;
+    @include respond(tab-port){
+        width: 45rem;
+    }
     @include respond(phone){
-        width: 50rem;
+        width: 33rem;
     }
 
     padding: 1rem 2rem;

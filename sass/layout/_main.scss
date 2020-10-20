@@ -1,23 +1,53 @@
-.profile-container{
+// .profile-container{
+//     display: grid;
+//     position: relative;
+//     height: 60%;
+//     width: 100%;
+//     align-items: center;
+//     justify-items: center;
+//     justify-content: center;
+
+//     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+//     grid-auto-rows: 1fr;
+//     column-gap: 2rem;
+//     row-gap: 2rem;
+
+//     padding-top: 3rem;
+//     @include respond(tab-port){
+//         grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+//     }
+
+//     @include respond(phone){
+//         grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+//     }
+// }
+
+.profile-container {
     display: grid;
-    position: relative;
-    height: 60%;
-    width: 100%;
-    align-items: center;
-    justify-items: center;
-    justify-content: center;
-
-    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
-    grid-auto-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 2rem;
-    row-gap: 2rem;
+    row-gap: 4rem;
+    width: 100%;
+    z-index: 3;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+    align-self: center;
 
-    padding-top: 3rem;
     @include respond(tab-port){
-        grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+        grid-template-columns: 1fr;
+        row-gap: 1rem;
     }
+}
 
-    @include respond(phone){
-        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+.avatar {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    text-align: left;
+
+    &-icon{
+        @include respond(tab-port){
+           justify-content: center;
+        }
     }
 }

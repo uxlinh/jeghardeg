@@ -18,7 +18,10 @@
         width: 40%;
 
         @include respond(tab-port) {
-            width: 80%;
+            width: 70%;
+        }
+        @include respond(phone) {
+            width: 90%;
         }
 
         background-color: $color-secondary;
@@ -28,18 +31,18 @@
         opacity: 0;
         transform: translate(-50%, -50%) scale(.3s);
         transition: all .4s .2s;
-        padding: 2rem;
+        padding: 1rem;
     }
 
     &__box {
         width: 100%;
         vertical-align: middle;
-        padding: 3rem 5rem;
+        padding: 1rem 4rem;
     }
 
     &__text {
-        font-size: 3rem;
-        margin-top: 4rem;
+        font-size: 2rem;
+        padding-top: 6rem;
     }
 
     //OPEN STATES
