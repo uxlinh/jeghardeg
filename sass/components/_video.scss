@@ -1,5 +1,12 @@
 video{
-    max-width: 70%;
+    max-width: 60%;
+
+    @include respond(tab-port){
+        max-width: 70%;
+    }
+    @include respond(phone){
+        max-width: 100%;
+    }
 }
 .video{
     display: flex;
