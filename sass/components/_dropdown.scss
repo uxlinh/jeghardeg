@@ -74,10 +74,11 @@ li:hover {
     text-align: left;
 
     text-decoration: none;
+	background: #fff;
     font-size: $default-font-size;
     font-family: $body;
-    color: $color-secondary;
-    transition: all 0.4s ease;
+	color: $color-secondary;
+	transition: all 0.4s ease;
 
     @include respond(phone){
         font-size: 1.8rem;
