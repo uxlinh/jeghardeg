@@ -1,7 +1,7 @@
 let dropdownBtn = document.querySelector('.box .dropdown-btn');
 let dropdownContentEml = document.querySelector('.box .dropdown-content');
 
-dropdownBtn.addEventListener('focus', (event) => {
+dropdownBtn.addEventListener('click', (event) => {
 	dropdownContentEml.classList.add('active');
 });
 
