@@ -36,7 +36,7 @@ $body: 'Poppins', sans-serif;
 
 .heading-secondary{
     font-family: $title;
-    font-size: 4.5rem;
+    font-size: 4rem;
     font-weight: 700;
     color: $color-white;
     margin-bottom: 5rem;
@@ -72,6 +72,10 @@ $body: 'Poppins', sans-serif;
     font-weight: 300;
     margin-bottom: 2rem;
     line-height: 1.6;
+
+    @include respond(tab-port){
+        font-size: 1.8rem;
+    }
 
     &-white {
         color: $color-white;

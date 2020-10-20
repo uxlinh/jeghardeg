@@ -60,7 +60,7 @@ body {
 
 .heading-secondary {
   font-family: "Merriweather", serif;
-  font-size: 4.5rem;
+  font-size: 4rem;
   font-weight: 700;
   color: #f7f7f7;
   margin-bottom: 5rem; }
@@ -89,6 +89,9 @@ body {
   font-weight: 300;
   margin-bottom: 2rem;
   line-height: 1.6; }
+  @media (max-width: 56.25em) {
+    .body {
+      font-size: 1.8rem; } }
   .body-white {
     color: #f7f7f7; }
   .body-blue {
@@ -156,6 +159,9 @@ a {
   grid-column: 4 / 10;
   padding: 16rem 0; }
   @media (max-width: 56.25em) {
+    .col-4-to-10 {
+      grid-column: 3 / 11; } }
+  @media (max-width: 37.5em) {
     .col-4-to-10 {
       grid-column: 2 / 12; } }
 

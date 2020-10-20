@@ -40,6 +40,10 @@
     padding: 16rem 0;
 
     @include respond(tab-port){
+        grid-column: 3 / 11;
+    }
+
+    @include respond(phone){
         grid-column: 2 / 12;
     }
 }
