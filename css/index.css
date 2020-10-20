@@ -229,7 +229,7 @@ a {
     grid-column: 4 / 10;
     grid-row: 1 / 2; }
   .header__textbox {
-    height: 80%;
+    height: 90%;
     display: flex;
     flex-flow: column;
     align-items: center;
