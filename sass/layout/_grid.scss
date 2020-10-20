@@ -37,7 +37,7 @@
 
 .col-4-to-10{
     grid-column: 4 / 10;
-    padding: 12rem 0;
+    padding: 16rem 0;
 
     @include respond(tab-port){
         padding: 7rem 0;

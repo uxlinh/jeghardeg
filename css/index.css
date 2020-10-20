@@ -157,7 +157,7 @@ a {
 
 .col-4-to-10 {
   grid-column: 4 / 10;
-  padding: 12rem 0; }
+  padding: 16rem 0; }
   @media (max-width: 56.25em) {
     .col-4-to-10 {
       padding: 7rem 0;
@@ -174,9 +174,24 @@ a {
   background-size: cover;
   background-position: top;
   position: relative; }
+  .header__julekule1 {
+    position: absolute;
+    top: 0rem;
+    left: 1.4rem;
+    width: 9rem; }
+  .header__julekule2 {
+    position: absolute;
+    top: 0rem;
+    left: 15rem;
+    width: 9rem; }
+  .header__julekule3 {
+    position: absolute;
+    top: 0rem;
+    left: 9rem;
+    width: 10rem; }
   .header__nav {
     position: absolute;
-    top: 1rem;
+    top: 2rem;
     right: 1.4rem; }
   .header__icon {
     padding-top: 1rem;
@@ -235,6 +250,12 @@ a {
 .btn-arrow {
   width: 4.5rem;
   height: 4.5rem; }
+
+.some__icon {
+  margin-top: 2rem;
+  padding-left: 1rem;
+  width: 4rem;
+  height: 4rem; }
 
 .dropdown-container {
   height: 10vh;

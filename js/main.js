@@ -25,7 +25,7 @@ tl.fromTo(
     },
 ).fromTo(
     arrowdown,
-    3, {
+    2, {
         opacity: '0',
         y: '-50%'
     }, {
