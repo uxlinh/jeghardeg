@@ -9,18 +9,31 @@
         top: 0rem;
         left: 1.4rem; 
         width: 9rem;
+        @include respond(tab-port){
+            width: 7rem;
+            left: 1rem;
+        }
     }
     &__julekule2{
         position: absolute;
         top: 0rem;
         left: 15rem; 
         width: 9rem;
+        @include respond(tab-port){
+            left: 9rem;
+            width: 7rem;
+        }
     }
     &__julekule3{
         position: absolute;
         top: 0rem;
         left: 9rem; 
         width: 10rem;
+
+        @include respond(tab-port){
+            width: 7rem;
+            left: 5rem;
+        }
     }
 
     &__nav{

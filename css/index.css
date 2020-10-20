@@ -179,16 +179,28 @@ a {
     top: 0rem;
     left: 1.4rem;
     width: 9rem; }
+    @media (max-width: 56.25em) {
+      .header__julekule1 {
+        width: 7rem;
+        left: 1rem; } }
   .header__julekule2 {
     position: absolute;
     top: 0rem;
     left: 15rem;
     width: 9rem; }
+    @media (max-width: 56.25em) {
+      .header__julekule2 {
+        left: 9rem;
+        width: 7rem; } }
   .header__julekule3 {
     position: absolute;
     top: 0rem;
     left: 9rem;
     width: 10rem; }
+    @media (max-width: 56.25em) {
+      .header__julekule3 {
+        width: 7rem;
+        left: 5rem; } }
   .header__nav {
     position: absolute;
     top: 2rem;
