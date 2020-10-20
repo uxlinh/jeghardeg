@@ -176,12 +176,12 @@ a {
   position: relative; }
   .header__nav {
     position: absolute;
-    right: 1rem; }
+    top: 1rem;
+    right: 1.4rem; }
   .header__icon {
     padding-top: 1rem;
-    padding-left: .5rem;
-    width: 4.5rem;
-    height: 4.5rem; }
+    width: 5rem;
+    height: 5rem; }
   .header__grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
