@@ -53,6 +53,7 @@ body {
     font-size: 2.4rem;
     margin-bottom: 2rem; }
   .heading-primary--footer {
+    color: #f7f7f7;
     font-size: 5rem; }
     @media (max-width: 56.25em) {
       .heading-primary--footer {
@@ -81,13 +82,13 @@ body {
   font-weight: 900;
   margin-top: 1rem;
   margin-bottom: .5rem;
-  color: #f7f7f7; }
+  color: #123B77; }
 
 .body {
   font-family: "Poppins", sans-serif;
   font-size: 1.8rem;
   font-weight: 300;
-  margin-bottom: 2rem;
+  margin-top: 2rem;
   line-height: 1.6; }
   @media (max-width: 56.25em) {
     .body {
@@ -99,15 +100,15 @@ body {
   .body-black {
     color: #000; }
   .body-slagord {
-    color: #f7f7f7;
+    color: #123B77;
     margin-bottom: 0; }
   .body-footer {
     font-size: 1.4rem;
-    color: #123B77;
+    color: #f7f7f7;
     text-align: center; }
   .body-email {
     font-size: 1.7rem;
-    color: #f7f7f7; }
+    color: #123B77; }
 
 .center-text {
   text-align: center; }
@@ -116,8 +117,7 @@ body {
   text-align: justify; }
 
 span {
-  font-weight: 600;
-  color: #f7f7f7; }
+  font-weight: 600; }
 
 a {
   text-decoration: none; }
@@ -199,16 +199,22 @@ a {
     justify-content: center;
     text-align: center; }
 
+.julegaveinnsamling {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; }
+
 .profile-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  align-self: center;
   column-gap: 2rem;
   row-gap: 4rem;
   width: 100%;
   z-index: 3;
   margin-top: 6rem;
-  margin-bottom: 3rem;
-  align-self: center; }
+  margin-bottom: 3rem; }
   @media (max-width: 56.25em) {
     .profile-container {
       grid-template-columns: 1fr;
@@ -223,10 +229,16 @@ a {
     .avatar-icon {
       justify-content: center; } }
 
+.btn-arrow {
+  width: 4.5rem;
+  height: 4.5rem; }
+
 .dropdown-container {
   height: 10vh;
   width: 100%;
-  display: flex; }
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
 
 .box {
   position: relative; }
@@ -276,7 +288,8 @@ li:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 30vw;
+  width: 20vw;
+  margin-top: 3rem;
   padding: 1rem 2rem;
   border-radius: 5px;
   cursor: pointer;
@@ -293,7 +306,7 @@ li:hover {
       width: 45rem; } }
   @media (max-width: 37.5em) {
     .dropdown-btn {
-      width: 33rem; } }
+      width: 25rem; } }
   @media (max-width: 37.5em) {
     .dropdown-btn {
       font-size: 1.8rem; } }
@@ -326,7 +339,7 @@ li:hover {
 .line {
   height: 0.2px;
   width: 100%;
-  background-color: rgba(18, 59, 119, 0.405);
+  background-color: rgba(247, 247, 247, 0.7);
   margin-top: 2em;
   margin-bottom: 3rem; }
 

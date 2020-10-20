@@ -26,6 +26,7 @@ $body: 'Poppins', sans-serif;
     }
 
     &--footer {
+        color: $color-white;
         font-size: 5rem;
 
         @include respond(tab-port){
@@ -63,14 +64,14 @@ $body: 'Poppins', sans-serif;
     font-weight: 900;
     margin-top: 1rem;
     margin-bottom: .5rem;
-    color: $color-white;
+    color: $color-secondary;
 }
 
 .body {
     font-family: $body;
     font-size: 1.8rem;
     font-weight: 300;
-    margin-bottom: 2rem;
+    margin-top: 2rem;
     line-height: 1.6;
 
     @include respond(tab-port){
@@ -89,17 +90,17 @@ $body: 'Poppins', sans-serif;
         color: $color-black;
     }
     &-slagord{
-        color: $color-white;
+        color: $color-secondary;
         margin-bottom: 0;
     }
     &-footer{
         font-size: 1.4rem;
-        color: $color-secondary;
+        color: $color-white;
         text-align: center;
     }
     &-email{
         font-size: 1.7rem;
-        color: $color-white;
+        color: $color-secondary;
     }
 }
 
@@ -112,7 +113,6 @@ $body: 'Poppins', sans-serif;
 
 span {
     font-weight: 600;
-    color: $color-white;
 }
 
 a{

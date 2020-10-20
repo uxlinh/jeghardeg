@@ -2,7 +2,8 @@
     height: 10vh;
     width: 100%;
     display: flex;
-
+    align-items: center;
+    flex-direction: column;
 }
 
 .box {
@@ -63,14 +64,14 @@ li:hover {
     align-items: center;
     justify-content: space-between;
 
-    width: 30vw;
+    width: 20vw;
     @include respond(tab-port){
         width: 45rem;
     }
     @include respond(phone){
-        width: 33rem;
+        width: 25rem;
     }
-
+    margin-top: 3rem;
     padding: 1rem 2rem;
     border-radius: 5px;
     cursor: pointer;
