@@ -167,6 +167,12 @@ a {
   background-size: cover;
   background-position: top;
   position: relative; }
+  .header__nav {
+    position: absolute;
+    right: 1rem; }
+  .header__icon {
+    padding-top: 1rem;
+    padding-left: .5rem; }
   .header__grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);

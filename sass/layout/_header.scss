@@ -4,6 +4,17 @@
     background-position: top;
     position: relative;
 
+    &__nav{
+
+        position: absolute;
+        right: 1rem;
+    }
+
+    &__icon{
+        padding-top:1rem;
+        padding-left: .5rem;
+    }
+
     &__grid {
         display: grid;
         grid-template-columns: repeat(12, 1fr);
