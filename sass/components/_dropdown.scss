@@ -25,7 +25,6 @@
     // pointer-events: none;
     transform: translateY(-5px);
     transition: all 0.3s ease;
-    // padding: 0 2rem;
     visibility: hidden;
 }
 
@@ -55,7 +54,7 @@ li:hover {
     font-size: $default-font-size;
     
     @include respond(phone){
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     }
 
 }
@@ -81,14 +80,14 @@ li:hover {
     transition: all 0.4s ease;
 
     @include respond(phone){
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     }
 }
 
 
-.box .dropdown-btn:focus + .dropdown-content{
+.dropdown-btn:focus+.dropdown-content{
     opacity: 1;
-    // pointer-events: all;
+    pointer-events: all;
     transform: translateY(0px);
     visibility: visible;
 }

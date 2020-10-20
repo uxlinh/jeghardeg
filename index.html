@@ -12,7 +12,6 @@
         href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
         rel="stylesheet">
 
-    <link rel="shortcut icon" type="text" href="#">
     <link rel='stylesheet' href='./css/index.css'>
 </head>
 
@@ -73,7 +72,7 @@
                             senere</p>
                         <p class="body body-white">Vet du om noen julegaveinnsamlinger som ikke er nevnt?</p>
                         <p class="body body-white">Tips oss
-                            <span><a href="./en.html" class="link">her.</a></span></p>
+                            <span><a href="#popup" class="link">her.</a></span></p>
                     </div>
 
                     <div class="margin-top-large">
@@ -145,7 +144,7 @@
                         <p class="body body-white center-text">Vi er 3 studenter fra Fagskolen Kristiania som studerer
                             Interaksjonsdesign. Dette er en
                             skoleoppgave hvor vi ønsker å belyse lavinntekstfamilier i Norge. Vi ønsker å gjøre det
-                            lette for givere å finne troverdige frivillighetsorganisasjoner som de kan donere julegaver
+                            lettere for givere å finne troverdige frivillighetsorganisasjoner som de kan donere julegaver
                             til i Julen 2020.</p>
                         <p class="body body-white center-text">Håper dere liker nettsiden! 🎄</p>
                         <p class="body body-white center-text">Med vennlig hilsen</p>
@@ -188,10 +187,46 @@
                 </div>
             </section>
         </footer>
+
+        <div class="popup" id="popup">
+            <div class="popup__content">
+                <div class="popup__box">
+                    <a href="#main" class="popup__close">&times;</a>
+                    <h2 class="heading-secondary heading-secondary--light popup__text">Tips oss om en julegaveinnsamling!</h2>
+
+                    
+                        <form action="#" class="form">
+
+                            <div class="form__group">
+                                <label for="name" class="form__label">Navn på julegaveinnsamling</label>
+                                <input type="text" class="form__input" placeholder="Navn på julegaveinnsamling" id="name">
+                            </div>
+                            
+                            <div class="form__group">
+                                <label for="adresse" class="form__label">Addresse for julegaveinnsamling</label>
+                                <input type="text" class="form__input" placeholder="Addresse" id="adresse">
+                            </div>
+
+                            <div class="form__group">
+                                <label for="text" class="form__label">Kontaktinformasjon for julegaveinnsamling </label>
+                                <input type="text" class="form__input" placeholder="E-post / mobilnummer" id="email">
+                            </div>
+                            <div class="form__group">
+                                <label for="link" class="form__label">Link til julegaveinnsamling</label>
+                                <input type="text" class="form__input" placeholder="Sosiale medie link / nettside-link" id="link">
+                            </div>
+
+                            <div class="form__group--btn ">
+                                <button class="form__btn">Send</button>
+                            </div>
+                        </form>
+                   
+                    
+                </div>
+            </div>
+        </div>
         
     </div>
-
-    <script type='module' src="./js/nordnorge.js"></script>
 </body>
 
 </html>

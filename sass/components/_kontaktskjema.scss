@@ -1,0 +1,64 @@
+.form {
+    &__group:not(:last-child) {
+        margin-bottom: 3rem;
+    }
+
+    &__input {
+        font-size: 1.8rem;
+        font-family: $body; //input elements does not automatically inherit font
+        margin-top: .5rem;
+        color: inherit;
+        padding: 1.5rem 2rem;
+        border-radius: 2px;
+        background-color: $color-secondary-light;
+        border: none;
+        border-bottom: 3px solid transparent;
+        width: 100%;
+        display: block;
+        transition: all .3s;
+
+        @include respond(tab-port) {
+            width: 100%;
+        }
+
+        &:focus {
+            outline: none;
+            box-shadow: 0 1rem 2rem rgba($color-black, .1);
+            border-bottom: 3px solid $color-white;
+        }
+
+        &:focus:invalid {
+            border-bottom: 3px solid $color-primary;
+        }
+
+        &::-webkit-input-placeholder {
+            color: rgba($color-secondary, .3);
+        }
+    }
+
+
+    &__label {
+        color: $color-secondary-light;
+        font-family: $body;
+        font-size: 2rem;
+        font-weight: 300;
+    }
+
+
+    &__group--btn{
+        text-align: right;
+    }
+    &__btn {
+        background-color: $color-tertiary;
+        padding: 1rem 2rem;
+        border-radius: 1rem;
+        cursor: pointer;
+        border: none;
+        text-align: center;
+
+        text-decoration: none;
+        font-size: $default-font-size;
+        font-family: $body;
+        color: $color-secondary;
+    }
+}
