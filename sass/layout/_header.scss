@@ -10,7 +10,7 @@
         left: 1.4rem; 
         width: 9rem;
         @include respond(phone){
-            width: 4rem;
+            width: 5rem;
             left: 1rem;
         }
     }
@@ -21,7 +21,7 @@
         width: 9rem;
         @include respond(phone){
             left: 9rem;
-            width: 4rem;
+            width: 5rem;
         }
     }
     &__julekule3{
@@ -31,7 +31,7 @@
         width: 10rem;
 
         @include respond(phone){
-            width: 4rem;
+            width: 5rem;
             left: 5rem;
         }
     }
@@ -44,8 +44,8 @@
 
     &__icon{
         padding-top:1rem;
-        width: 5rem;
-        height: 5rem;
+        width: 4.5rem;
+        height: 4.5rem;
     }
 
     &__grid {
@@ -64,7 +64,7 @@
     }
     
     &__textbox{
-        height: 90%;
+        height: 80%;
         display: flex;
         flex-flow: column;
         align-items: center;

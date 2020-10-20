@@ -41,13 +41,15 @@ body {
   color: #B32739; }
   .heading-primary--main {
     font-size: 9rem;
-    margin-bottom: 2rem; }
+    margin-bottom: 3rem; }
     @media (max-width: 56.25em) {
       .heading-primary--main {
-        font-size: 7rem; } }
+        font-size: 7rem;
+        margin-bottom: 2rem; } }
     @media (max-width: 37.5em) {
       .heading-primary--main {
-        font-size: 5rem; } }
+        font-size: 5rem;
+        margin-bottom: 2rem; } }
   .heading-primary--sub {
     font-family: "Merriweather", serif;
     font-size: 2.4rem;
@@ -88,22 +90,25 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 1.8rem;
   font-weight: 300;
-  margin-top: 2rem;
   line-height: 1.6; }
   @media (max-width: 56.25em) {
     .body {
-      font-size: 1.8rem; } }
+      font-size: 1.8rem;
+      margin-bottom: 1.5rem; } }
   .body-white {
-    color: #f7f7f7; }
+    color: #f7f7f7;
+    margin-bottom: 1.5rem; }
   .body-blue {
-    color: #123B77; }
+    color: #123B77;
+    margin-bottom: 1.5rem; }
   .body-black {
-    color: #000; }
+    color: #000;
+    margin-bottom: 1.5rem; }
   .body-slagord {
     color: #123B77;
     margin-bottom: 0; }
   .body-footer {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     color: #f7f7f7;
     text-align: center; }
   .body-email {
@@ -181,7 +186,7 @@ a {
     width: 9rem; }
     @media (max-width: 37.5em) {
       .header__julekule1 {
-        width: 4rem;
+        width: 5rem;
         left: 1rem; } }
   .header__julekule2 {
     position: absolute;
@@ -191,7 +196,7 @@ a {
     @media (max-width: 37.5em) {
       .header__julekule2 {
         left: 9rem;
-        width: 4rem; } }
+        width: 5rem; } }
   .header__julekule3 {
     position: absolute;
     top: 0rem;
@@ -199,7 +204,7 @@ a {
     width: 10rem; }
     @media (max-width: 37.5em) {
       .header__julekule3 {
-        width: 4rem;
+        width: 5rem;
         left: 5rem; } }
   .header__nav {
     position: absolute;
@@ -207,8 +212,8 @@ a {
     right: 1.4rem; }
   .header__icon {
     padding-top: 1rem;
-    width: 5rem;
-    height: 5rem; }
+    width: 4.5rem;
+    height: 4.5rem; }
   .header__grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -221,7 +226,7 @@ a {
     grid-column: 4 / 10;
     grid-row: 1 / 2; }
   .header__textbox {
-    height: 90%;
+    height: 80%;
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -260,8 +265,8 @@ a {
       justify-content: center; } }
 
 .btn-arrow {
-  width: 4.5rem;
-  height: 4.5rem; }
+  width: 4.8rem;
+  height: 4.8rem; }
 
 .some__icon {
   margin-top: 2rem;
