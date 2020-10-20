@@ -10,7 +10,7 @@
         left: 1.4rem; 
         width: 9rem;
         @include respond(tab-port){
-            width: 7rem;
+            width: 6rem;
             left: 1rem;
         }
     }
@@ -21,7 +21,7 @@
         width: 9rem;
         @include respond(tab-port){
             left: 9rem;
-            width: 7rem;
+            width: 6rem;
         }
     }
     &__julekule3{
@@ -31,7 +31,7 @@
         width: 10rem;
 
         @include respond(tab-port){
-            width: 7rem;
+            width: 6rem;
             left: 5rem;
         }
     }

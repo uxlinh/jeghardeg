@@ -181,7 +181,7 @@ a {
     width: 9rem; }
     @media (max-width: 56.25em) {
       .header__julekule1 {
-        width: 7rem;
+        width: 6rem;
         left: 1rem; } }
   .header__julekule2 {
     position: absolute;
@@ -191,7 +191,7 @@ a {
     @media (max-width: 56.25em) {
       .header__julekule2 {
         left: 9rem;
-        width: 7rem; } }
+        width: 6rem; } }
   .header__julekule3 {
     position: absolute;
     top: 0rem;
@@ -199,7 +199,7 @@ a {
     width: 10rem; }
     @media (max-width: 56.25em) {
       .header__julekule3 {
-        width: 7rem;
+        width: 6rem;
         left: 5rem; } }
   .header__nav {
     position: absolute;
