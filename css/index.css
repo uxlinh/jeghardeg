@@ -51,7 +51,7 @@ body {
   .heading-primary--sub {
     font-family: "Merriweather", serif;
     font-size: 2.4rem;
-    margin-bottom: 2rem; }
+    margin: 2rem 0; }
   .heading-primary--footer {
     color: #f7f7f7;
     font-size: 5rem; }
@@ -537,3 +537,12 @@ li:hover {
     line-height: 1;
     color: #123B77;
     background-color: white; }
+
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; }
+
+iframe {
+  text-align: center; }
