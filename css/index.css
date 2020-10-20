@@ -157,7 +157,7 @@ a {
   padding: 16rem 0; }
   @media (max-width: 56.25em) {
     .col-4-to-10 {
-      grid-column: 3 / 11; } }
+      grid-column: 2 / 12; } }
 
 .background-blue {
   background-color: #123B77; }
