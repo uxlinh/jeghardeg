@@ -157,7 +157,7 @@ a {
 
 .col-4-to-10 {
   grid-column: 4 / 10;
-  padding: 10rem 0; }
+  padding: 12rem 0; }
   @media (max-width: 56.25em) {
     .col-4-to-10 {
       padding: 7rem 0;
@@ -542,7 +542,7 @@ li:hover {
     background-color: white; }
 
 video {
-  max-width: 70%; }
+  max-width: 60%; }
 
 .video {
   display: flex;
