@@ -190,7 +190,7 @@ a {
     @media (max-width: 37.5em) {
       .header__julekule1 {
         width: 5rem;
-        left: 1rem; } }
+        left: .6rem; } }
   .header__julekule2 {
     position: absolute;
     top: 0rem;
