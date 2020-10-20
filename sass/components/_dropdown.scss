@@ -61,12 +61,14 @@ li:hover {
 .dropdown-btn {
     display: flex;
     align-items: center;
-    justify-content: space-between;;
-    width: 40rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    justify-content: space-between;
+
+    width: 50rem;
+    @include respond(phone){
+        width: 50rem;
+    }
+
+    padding: 1rem 2rem;
     border-radius: 5px;
     cursor: pointer;
     border: none;
