@@ -41,7 +41,7 @@ body {
   color: #B32739; }
   .heading-primary--main {
     font-size: 9rem;
-    margin-bottom: 4rem; }
+    margin-bottom: 2rem; }
     @media (max-width: 56.25em) {
       .heading-primary--main {
         font-size: 7rem; } }

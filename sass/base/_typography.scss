@@ -9,7 +9,7 @@ $body: 'Poppins', sans-serif;
 
     &--main {
         font-size: 9rem;
-        margin-bottom: 4rem;
+        margin-bottom: 2rem;
 
         @include respond(tab-port){
             font-size: 7rem;
