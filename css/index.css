@@ -64,7 +64,7 @@ body {
   font-size: 4rem;
   font-weight: 700;
   color: #f7f7f7;
-  margin-bottom: 5rem; }
+  margin-bottom: 2rem; }
   @media (max-width: 56.25em) {
     .heading-secondary {
       font-size: 3rem; } }
@@ -157,7 +157,7 @@ a {
 
 .col-4-to-10 {
   grid-column: 4 / 10;
-  padding: 16rem 0; }
+  padding: 10rem 0; }
   @media (max-width: 56.25em) {
     .col-4-to-10 {
       padding: 7rem 0;
