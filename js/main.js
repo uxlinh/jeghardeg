@@ -35,18 +35,22 @@ tl.fromTo(
     }, '-=2.1');
 
 
+    let submitButton = document.querySelector('.form__btn');
+    submitButton.addEventListener('click', subForm);
 
-    function SubForm (){
+    function dataSend() {
+        window.location.hash = 'main';
+    }
+
+    function subForm(event) {
+        event.preventDefault();
+
         $.ajax({
             url:'https://api.apispreadsheets.com/data/2338/',
             type:'post',
             data:$("#myForm").serializeArray(),
-            // success: function(){
-            //   alert("Form Data Submitted :)")
-            // },
-            // error: function(){
-            //   alert("Skjema  :(")
-            // }
+            success: dataSend
         });
+
     }
     
