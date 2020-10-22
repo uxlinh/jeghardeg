@@ -41,7 +41,8 @@ body {
 
 .heading-primary {
   font-family: "Merriweather", serif;
-  color: #B32739; }
+  color: #B32739;
+  font-weight: 900; }
   .heading-primary--main {
     font-size: 9rem;
     margin-bottom: 3rem; }
