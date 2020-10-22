@@ -33,3 +33,20 @@ tl.fromTo(
         y: '10%',
         ease: Power2.easeInOut
     }, '-=2.1');
+
+
+
+    function SubForm (){
+        $.ajax({
+            url:'https://api.apispreadsheets.com/data/2338/',
+            type:'post',
+            data:$("#myForm").serializeArray(),
+            success: function(){
+              alert("Form Data Submitted :)")
+            },
+            error: function(){
+              alert("There was an error :(")
+            }
+        });
+    }
+    

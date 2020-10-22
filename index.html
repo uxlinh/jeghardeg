@@ -13,6 +13,11 @@
         href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap">
     <link rel='stylesheet' href='./css/index.css'>
 
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous">
+    </script>
     <script defer src="js/main.js"></script>
 </head>
 
@@ -38,14 +43,15 @@
                     <div class="header__textbox">
                         <h1 class="heading-primary heading-primary--main">#jeghardeg</h1>
                         <p class="body body-black">
-                            Julen handler ikke bare om gaver, men sannheten er at mange foreldre ikke har mulighet til å gi barna sine gaver. En julegavedonasjon kan gjøre en forskjell for en hel familie. 
+                            Julen handler ikke bare om gaver, men sannheten er at mange foreldre ikke har mulighet til å
+                            gi barna sine gaver. En julegavedonasjon kan gjøre en forskjell for en hel familie.
                         </p>
                         <p class="body body-black">Doner en julegave du også!</p>
                         <h1 class=" heading-primary heading-primary--sub">Finn din lokale julegaveinnsamling</h1>
                         <a href="#main"><img class="btn-arrow" src="./img/arrow-down.svg"
                                 alt="Knapp for å finne julegaveinnsamling "></a>
                     </div>
-               </div>
+                </div>
 
             </div>
         </header>
@@ -90,7 +96,8 @@
                             </div>
                         </div>
 
-                        <p class="body body-white center-text margin-top-small">Vet du om noen julegaveinnsamlinger som ikke er nevnt?
+                        <p class="body body-white center-text margin-top-small">Vet du om noen julegaveinnsamlinger som
+                            ikke er nevnt?
                         </p>
                         <p class="body body-white center-text">Tips oss <span><a href="#popup"
                                     class="link">her.</a></span>
@@ -104,7 +111,8 @@
             <section class="section section-light">
                 <div class="col-4-to-10">
                     <div>
-                        <h2 class="heading-secondary heading-secondary--dark">Hvorfor bidra til en julegaveinnsamling?</h2>
+                        <h2 class="heading-secondary heading-secondary--dark">Hvorfor bidra til en julegaveinnsamling?
+                        </h2>
 
                         <div class="slagord-container">
                             <!-- Slagord1 -->
@@ -186,7 +194,8 @@
                         <h2 class="heading-secondary heading-secondary--dark center-text">Hvem er vi?</h2>
                         <p class="body body-blue center-text">Vi er 3 studenter fra Fagskolen Kristiania som studerer
                             Interaksjonsdesign. Dette er en
-                            skoleoppgave der vi ønsker å belyse utfordringer som lavinntektsfamilier i Norge har i julen. Vi ønsker å gjøre det
+                            skoleoppgave der vi ønsker å belyse utfordringer som lavinntektsfamilier i Norge har i
+                            julen. Vi ønsker å gjøre det
                             lettere for givere å finne troverdige frivillighetsorganisasjoner som de kan donere
                             julegaver til i julen 2020.</p>
                         <p class="body body-blue center-text">Håper dere liker nettsiden! 🎄</p>
@@ -248,21 +257,23 @@
 
                         <div class="form__group">
                             <label for="name" class="form__label">Navn på julegaveinnsamling</label>
-                            <input type="text" class="form__input" placeholder="Navn på julegaveinnsamling" id="name">
+                            <input name="full_name" type="text" class="form__input"
+                                placeholder="Navn på julegaveinnsamling" id="name">
                         </div>
 
                         <div class="form__group">
                             <label for="text" class="form__label">Kontaktinformasjon</label>
-                            <input type="text" class="form__input" placeholder="E-post / mobilnummer" id="email">
+                            <input name="email" type="text" class="form__input" placeholder="E-post / mobilnummer"
+                                id="email">
                         </div>
                         <div class="form__group">
                             <label for="link" class="form__label">Link til julegaveinnsamling</label>
-                            <input type="text" class="form__input" placeholder="Link til sosiale medier / nettside"
-                                id="link">
+                            <input name="message" type="text" class="form__input"
+                                placeholder="Link til sosiale medier / nettside" id="link">
                         </div>
 
                         <div class="form__group--btn ">
-                            <button class="form__btn">Send</button>
+                            <button class="form__btn" onclick="SubForm()">Send</button>
                         </div>
                     </form>
                 </div>
