@@ -137,6 +137,9 @@ a {
 .link {
   color: white; }
 
+.link:hover {
+  color: white; }
+
 .grid {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
