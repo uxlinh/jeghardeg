@@ -58,6 +58,33 @@ const innsamlinger = [
         lng: 11.001599,
         lat: 59.980591
     },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Sortland Frivilligsentral",
+        by: "Sortland",
+        message: "Sortland frivilligsentral kjører innsamlingen, Julemateska. De gir gaveeske som inneholder julemat samt julegave til barna. På nettsiden kan du scrolle ned til, 'Vil du bidra' og huk av for Julemateska for å bidra.",
+        link: "https://sortland.frivilligsentral.no/",
+        lng: 15.416459,
+        lat: 68.697502
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Trøgstad Frivilligsentral",
+        by: "Trøgstad",
+        message: "'Juletre med mening', er at foreldre/foresatte fra barn ifra lav-inntektsfamilier kan komme med konkrete julegave ønsker på vegne av barna sine. Målgruppen er 0-18 år (opptil 23 år hvis under barnevernet). Les mer om 'Juletre med mening via linken.",
+        link: "https://trogstad.frivilligsentral.no/aktivitet?juletre-med-mening&Id=6107",
+        lng: 11.316568,
+        lat: 59.641407
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Spydeberg Frivilligsentral",
+        by: "Spydeberg",
+        message: "'Ønsketre', Det å få økonomien til å strekke til i jula kan være utfordrende for mange familier, det vil 'Sammen for Spydeberg' gjøre noe med. Sjekk ut nettsiden til Spydebergs frivilligsentral for mer informasjon.",
+        link: "https://spydeberg.frivilligsentral.no/nyhet?%C3%B8nsketre&Id=34688",
+        lng: 11.080715,
+        lat: 59.620186
+    },
 ]
 
 const addMarker = (innsamlinger) => {
@@ -76,6 +103,7 @@ const addMarker = (innsamlinger) => {
         <div>
         <h4>Link:</h4>
         <a href="${innsamlinger.link}">${innsamlinger.link}</a>
+        <p>${innsamlinger.message}</p>
         </div>
     </div>
     `)
