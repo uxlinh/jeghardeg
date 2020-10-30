@@ -104,7 +104,7 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "Julegaveinnsamling i Re",
         by: "Revetal",
-        message: "Barneklesbutikken Stor og liten på Re-torvet er så snille at de også i år tar imot gaver i sin åpningstid. I tillegg vil det være en stand fra Røde Kors ved utgangen til parkeringshuset der vi tar imot gaver og vi slår gjerne av en prat. Datoene for stands er fredagene 4. og 11. desember fra klokka 17.00 til 19.00. Siste dagen for innlevering i år blir 16. desember.",
+        message: "Barneklesbutikken Stor og liten på Re-torvet er så snille at de også i år tar imot gaver i sin åpningstid. I tillegg vil det være en stand fra Røde Kors ved utgangen til parkeringshuset der vi tar imot gaver og vi slår gjerne av en prat. Datoene for stands er fredagene 4. og 11. desember fra klokka 17.00 til 19.00. Siste dagen for innlevering i år blir 16. desember. <br> Det er litt usikkert akkurat når treet med ønskelappene kommer opp, men vi håper det er på plass i løpet av uke 46. Så følg med!",
         link: "https://www.reavisa.no/2020/10/30/re-rode-kors-det-blir-julegaveinnsamling-i-ar-ogsa/?fbclid=IwAR2rCIfL5shyO-Ih-rtuU6T0igJmY-AMtT-XdhOvhCiApvy5bKi1rcYoc9g#.X5wMoUJKg8M",
         lng: 10.264243,
         lat: 59.371682
