@@ -14,6 +14,7 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "God jul, lille venn",
         by: "Drammen",
+        message: "God jul, lille venn er en dugnad hvor målet er å samle inn nye julegaver til barn i familier som har litt mindre å rutte med. Dugnaden finnes flere steder i Norge. Dersom du ønsker å starte en dugnad der hvor du bor, ta kontakt med Anikken Hjelde.",
         link: "https://www.facebook.com/events/299953364576491",
         lng: 10.205373,
         lat: 59.735535
@@ -22,6 +23,7 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "God jul, lille venn",
         by: "Lier",
+        message: "God jul, lille venn er en dugnad hvor målet er å samle inn nye julegaver til barn i familier som har litt mindre å rutte med. Dugnaden finnes flere steder i Norge. Dersom du ønsker å starte en dugnad der hvor du bor, ta kontakt med Anikken Hjelde.",
         link: "https://www.facebook.com/events/2083795035083929/",
         lng: 10.303734,
         lat: 59.810786
@@ -30,6 +32,7 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "God Jul, lille venn",
         by: "Øvre Eiker",
+        message: "God jul, lille venn er en dugnad hvor målet er å samle inn nye julegaver til barn i familier som har litt mindre å rutte med. Dugnaden finnes flere steder i Norge. Dersom du ønsker å starte en dugnad der hvor du bor, ta kontakt med Anikken Hjelde.",
         link: "https://www.facebook.com/events/347435896702633/",
         lng: 9.909805,
         lat: 59.776149
@@ -38,6 +41,7 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "Med hjerte for Solør",
         by: "Solør",
+        message: "Vi er en non-profitt organisasjon som baserer vår drift 100% på frivillighet, gaver, donasjoner og engasjement fra sambygdinger.Det hele startet julen 2016 da jeg(Linn) la ut en status på facebook om at jeg hadde en del julegaver til overs dersom det var noen som ikke hadde råd til å kjøpe gaver til barna sine.",
         link: "https://www.facebook.com/Hjerteforsolor/",
         lng: 12.070018,
         lat: 60.608775
@@ -46,6 +50,7 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "Ringerike Frivillighetssentral",
         by: "Ringerike",
+        message: "Det samles inn julegaver som gis videre til barnevernet i kommunen. Hvis du har noe å gi, så pakk gaven inn og kom innom oss. Vi setter på lapper sammen med giver. Lappene skal vise alder, kjønn osv slik at gaven kommer til rette vedkommende. Barnevernet tar av disse lappene før utlevering. Dette er en fint bidrag til å skape en hyggelig jul for mange barn/unge.",
         link: "https://ringerike.frivilligsentral.no/aktivitet?julegaveinnsamling&Id=3228",
         lng: 10.259873,
         lat: 60.171106
@@ -53,7 +58,8 @@ const innsamlinger = [
     {
         avatarUrl: "../img/gaveicon.svg",
         navn: "Hjelpende hender",
-        by: " ",
+        by: "Romerike og Oslo",
+        message: "En frivillig hjelpe org. for hjemløse, rusmisbrukere, enslige, eldre og andre som trenger litt hjelp i hverdagen Vi er politisk uavhengig, og ikke- religiøs organisasjon.",
         link: "https://www.facebook.com/Hjelpende-hender-124622254361388",
         lng: 11.001599,
         lat: 59.980591
