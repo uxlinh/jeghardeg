@@ -48,7 +48,7 @@ const innsamlinger = [
     },
     {
         avatarUrl: "../img/gaveicon.svg",
-        navn: "Ringerike Frivillighetssentral",
+        navn: "Ringerike Frivilligsentral",
         by: "Ringerike",
         message: "Det samles inn julegaver som gis videre til barnevernet i kommunen. Hvis du har noe å gi, så pakk gaven inn og kom innom oss. Vi setter på lapper sammen med giver. Lappene skal vise alder, kjønn osv slik at gaven kommer til rette vedkommende. Barnevernet tar av disse lappene før utlevering. Dette er en fint bidrag til å skape en hyggelig jul for mange barn/unge.",
         link: "https://ringerike.frivilligsentral.no/aktivitet?julegaveinnsamling&Id=3228",
@@ -101,7 +101,6 @@ const innsamlinger = [
         lat: 59.583895
     },
 ]
-
 
 const addMarker = (innsamlinger) => {
 
