@@ -85,6 +85,15 @@ const innsamlinger = [
         lng: 11.080715,
         lat: 59.620186
     },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Askim Frivilligsentral",
+        by: "Askim",
+        message: "'Juletre med mening', er at foreldre/foresatte fra barn ifra lav-inntektsfamilier kan komme med konkrete julegave ønsker på vegne av barna sine. Målgruppen er 0-18 år (opptil 23 år hvis under barnevernet). Lever julegaven til Frivilligsentralen på Torget 14, 1803 Askim",
+        link: "https://askim.frivilligsentral.no/nyhet?juletre-med-mening&Id=29243",
+        lng: 11.163716,
+        lat: 59.583895
+    },
 ]
 
 const addMarker = (innsamlinger) => {
