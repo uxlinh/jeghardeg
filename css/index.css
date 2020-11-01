@@ -607,3 +607,7 @@ video {
 
 iframe {
   text-align: center; }
+
+.popup-container a {
+  color: #123B77;
+}
