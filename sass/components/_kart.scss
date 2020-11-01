@@ -65,9 +65,12 @@
     flex-direction: column;
     align-items: center;
     padding: 0;
-    
     a{
         color: $color-secondary;
+    }
+
+    @include respond(tab-phone){
+        width: 20%;
     }
 }
 
