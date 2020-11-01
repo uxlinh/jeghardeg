@@ -109,6 +109,435 @@ const innsamlinger = [
         lng: 10.264243,
         lat: 59.371682
     },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Arendal - Clarion Hotel Tyholmen",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 8.767737,
+        lat: 58.458071
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Asker - Quality Hotel Leangkollen",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.465458,
+        lat: 59.831753
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Clarion Hotel Admiral",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.319525,
+        lat: 60.395620
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Clarion Hotel Bergen",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.325555,
+        lat: 60.396389
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Clarion Hotel Bergen Airport Terminal",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.230702,
+        lat: 60.290514
+    },
+
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Comfort Hotel Bergen",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.315495,
+        lat: 60.396032
+    },
+
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Quality Hotel Edvard Grieg",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.293183,
+        lat: 60.292491
+    },
+
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Comfort Hotel  Bergen Airport Terminal",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.235416,
+        lat: 60.286160
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bergen - Clarion Collection Hotel Havnekontoret",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.321540,
+        lat: 60.398240
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Bodø - Clarion Collection Hotel Grand Bodø",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 14.378167,
+        lat: 67.283869
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Drammen - Clarion Collection  Hotel Tollboden",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.210199,
+        lat: 59.736913
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Drammen - Quality Hotel River Station",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.206752,
+        lat: 59.739036
+    },
+
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Drammen - Comfort Hotel Union Brygge",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.191734,
+        lat: 59.743920
+    },
+
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Florø - Comfort Hotel Florø",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.035635,
+        lat: 61.599790
+    },
+
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo Gardemoen - Clarion Hotel & Congress Oslo Airport",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 11.069963,
+        lat: 60.192809
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo Gardemoen - Quality Airport Hotel Gardermoen",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 11.161589,
+        lat: 60.163497
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo Fornebu - Quality Hotel Expo",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.628301,
+        lat: 59.902580
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Fredrikstad - Quality Hotel Fredrikstad",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.939552,
+        lat: 59.211208
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Hamar - Clarion Collection Hotel Astoria",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 11.074967,
+        lat: 60.793273
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Harstad - Clarion Collection Hotel Arcticus",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 16.549455,
+        lat: 68.804300
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Haugesund - Clarion Collection Hotel Amanda",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.267026,
+        lat: 59.413219
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Haugesund - Clarion Collection Hotel Amanda",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 5.267026,
+        lat: 59.413219
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Kolbotn - Quality Hotel Entry",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.779584,
+        lat: 59.825064
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Kongsberg - Quality Hotel Grand",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 9.649631,
+        lat: 59.669074
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Kristiansand - Clarion Hotel Ernst - Comfort Hotel Kristiansand",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 7.992871,
+        lat: 58.144378
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Kristiansund - Quality Hotel Grand",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 7.731141,
+        lat: 63.110111
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Langesund - Quality Hotel Skjærgården",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 9.744919,
+        lat: 59.014221
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Larvik - Quality Hotel Grand Farris",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.029468,
+        lat: 59.051057
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Lillehammer - Clarion Collection Hotel Hammer",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 10.462435,
+        lat: 61.119313
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Mo i Rana - Clarion Collection Hotel Helma",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 66.308763,
+        lat: 14.139233
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Clarion Collection Hotel Folketeateret",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.913864,
+        lat: 10.750704
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Clarion Collection Hotel Bastion",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.908243,
+        lat: 10.744938
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Clarion Collection Hotel Gabelshus",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.913727,
+        lat: 10.709002
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Clarion Hotel Oslo",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.907678,
+        lat: 10.756872
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Comfort Hotel Grand Central",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.910824,
+        lat: 10.751240
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Comfort Hotel Xpress Youngstorget",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.916439,
+        lat: 10.749557
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Quality Hotel 33",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.928761,
+        lat: 10.818299
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Comfort Hotel Karl Johan",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.911853,
+        lat: 10.746119
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Clarion Hotel The Hub",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.912540,
+        lat: 10.750042
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Clarion Collection Hotel Savoy",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.916783,
+        lat: 10.738558
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Comfort Hotel Xpress Central Station",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.910668,
+        lat: 10.748729
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Oslo - Comfort Hotel Xpress Central Station",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.910668,
+        lat: 10.748729
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Porsgrunn - Comfort Hotel Porsgrunn",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.140392,
+        lat: 9.657290
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Sandefjord - Clarion Collection Hotel Atlantic",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.133112,
+        lat: 10.224580
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Sandnes - Quality Hotel Residence",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 58.851605,
+        lat: 5.738487
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Sarpsborg - Quality Hotel Sarpsborg",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.296204,
+        lat: 11.064780
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Ensomt juletre søker gaver",
+        by: "Skien - Clarion Collection Hotel Bryggeparken",
+        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
+        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
+        lng: 59.205225,
+        lat: 9.612549
+    },
 ]
 
 
