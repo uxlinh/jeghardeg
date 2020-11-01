@@ -457,6 +457,8 @@ li:hover {
   flex-direction: column;
   align-items: center;
   padding: 0; }
+  .popup-container a {
+    color: #123B77; }
 
 .mapboxgl-popup-content {
   padding: 1rem;
@@ -607,7 +609,3 @@ video {
 
 iframe {
   text-align: center; }
-
-.popup-container a {
-  color: #123B77;
-}
