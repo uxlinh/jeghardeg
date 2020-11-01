@@ -708,7 +708,7 @@ const addMarker = (innsamlinger) => {
         <p>${innsamlinger.by}</p>
         <div>
         <h4>Link:</h4>
-        <a href="${innsamlinger.link}">${innsamlinger.link}</a>
+        <a href="${innsamlinger.link}">Nettsidelink til innsamling</a>
         <p>${innsamlinger.message}</p>
         </div>
     </div>
