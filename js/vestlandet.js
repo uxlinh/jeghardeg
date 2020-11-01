@@ -8,6 +8,7 @@ style: 'mapbox://styles/mapbox/streets-v11',
 zoom: 6,
 center: [6.428956, 61.242423],
 });
+map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
 const innsamlinger = [
     {
