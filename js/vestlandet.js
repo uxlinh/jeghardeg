@@ -683,6 +683,33 @@ const innsamlinger = [
         lng: 6.146387,
         lat: 62.470064
     },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Sveio Frivilligsentral (drevet av Kirkens Bymisjon)",
+        by: "Sveio",
+        message: "Juletreet med ønskjer blir som vanleg satt opp på Oasen Storsenter, så her kan du velge deg eit eller fleire ønskjer som du vil innfri 🎄 Om du ønskjer å bidra, men ikkje har tenkt deg fysisk ut på julehandel- ta gjerne kontakt. <br> Det er mange ulike måtar du kan bidra på 🧡",
+        link: "https://www.facebook.com/SveioFrivilligsentral",
+        lng: 5.360744,
+        lat: 59.543592
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Vennesla Kirke - Julegavetreet",
+        by: "Vennesla",
+        message: "Ved å gi penger via Julegavetreet er du med på å gi barn i Vennesla kommune den julegaven de ønsker seg. Julegavetreet i år kun gjelder gaveønsker fra personer i aldersgruppen 0-18 år. Vennesla kirke, vil stå for innkjøp av de ønskede gavene, men vi er avhengige av din hjelp. Det skjer ved at du gir penger til prosjektet slik at alle gaveønskene kan bli innfridd. <br><br>  Du kan gi ved å bruke vipps nr: 500828 eller sende penger til konto nr: 3000.37.98158. <br><br> Ved julestallen i sentrum er det mulighet for å gi kontanter. <br><br> Tusen takk på vegne av alle de barna som får akkurat den julegaven de ønsker seg i år.",
+        link: "https://www.facebook.com/Venneslakirke/videos/julegavetreet/2145320812386530/",
+        lng: 7.969101,
+        lat: 58.276414
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Triaden Lørenskog Storsenter",
+        by: "Lørenskog",
+        message: "Gi en julegave til noen som trenger hjelp ❤️ <br><br>I år hjelper vi Hjelpende hender med innsamling av julegaver. <br><br> Vil du hjelpe? Slik gjør du: <ul><li>Velg ett ønske fra juletreet som står utenfor Kicks</li><li>Kjøp gave og fest ønskelappen på gaven</li><li>Legg gaven i gaveboksen som står utenfor Infomasjonen</li></ul>",
+        link: "www.triaden.no",
+        lng: 10.953053,
+        lat: 59.919455
+    },
 ]
 
 
