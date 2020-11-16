@@ -706,7 +706,7 @@ const innsamlinger = [
         navn: "Triaden Lørenskog Storsenter",
         by: "Lørenskog",
         message: "Gi en julegave til noen som trenger hjelp ❤️ <br><br>I år hjelper vi Hjelpende hender med innsamling av julegaver. <br><br> Vil du hjelpe? Slik gjør du: <ul><li>Velg ett ønske fra juletreet som står utenfor Kicks</li><li>Kjøp gave og fest ønskelappen på gaven</li><li>Legg gaven i gaveboksen som står utenfor Infomasjonen</li></ul>",
-        link: "www.triaden.no",
+        link: "https://www.triaden.no",
         lng: 10.953053,
         lat: 59.919455
     },
