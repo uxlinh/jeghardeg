@@ -696,10 +696,46 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "Triaden Lørenskog Storsenter",
         by: "Lørenskog",
-        message: "Gi en julegave til noen som trenger hjelp ❤️ <br><br>I år hjelper vi Hjelpende hender med innsamling av julegaver. <br><br> Vil du hjelpe? Slik gjør du: <ul><li>Velg ett ønske fra juletreet som står utenfor Kicks</li><li>Kjøp gave og fest ønskelappen på gaven</li><li>Legg gaven i gaveboksen som står utenfor Infomasjonen</li></ul>",
+        message: "Gi en julegave til noen som trenger hjelp ❤️ <br><br>I år hjelper vi Hjelpende hender med innsamling av julegaver. <br><br> Vil du hjelpe? Slik gjør du: <br> Velg ett ønske fra juletreet som står utenfor Kicks <br> Kjøp gave og fest ønskelappen på gaven <br> Legg gaven i gaveboksen som står utenfor Infomasjonen",
         link: "https://www.facebook.com/Triaden/posts/10156495613057706",
         lng: 10.953053,
         lat: 59.919455
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Julegavetreet 2020",
+        by: "Europris Evje",
+        message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
+        link: "https://www.facebook.com/eoghrodekors",
+        lng: 7.786626,
+        lat: 58.580494
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Julegavetreet 2020",
+        by: "Evje Sentrum",
+        message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
+        link: "https://www.facebook.com/eoghrodekors",
+        lng: 7.805781,
+        lat: 58.586785
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Julegavetreet 2020",
+        by: "Coop Byglandsfjord",
+        message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
+        link: "https://www.facebook.com/eoghrodekors",
+        lng: 7.805542,
+        lat: 58.670209
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Julegavetreet 2020",
+        by: "Joker Bygland",
+        message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
+        link: "https://www.facebook.com/eoghrodekors",
+        lng: 7.797972,
+        lat: 58.831155
     },
 ]
 
