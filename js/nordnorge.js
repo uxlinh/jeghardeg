@@ -706,7 +706,7 @@ const innsamlinger = [
         navn: "Julegavetreet 2020",
         by: "Europris Evje",
         message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
-        link: "https://www.facebook.com/eoghrodekors",
+        link: "https://www.facebook.com/eoghrodekors/posts/2802681709990298",
         lng: 7.786626,
         lat: 58.580494
     },
@@ -715,7 +715,7 @@ const innsamlinger = [
         navn: "Julegavetreet 2020",
         by: "Evje Sentrum",
         message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
-        link: "https://www.facebook.com/eoghrodekors",
+        link: "https://www.facebook.com/eoghrodekors/posts/2802681709990298",
         lng: 7.805781,
         lat: 58.586785
     },
@@ -724,7 +724,7 @@ const innsamlinger = [
         navn: "Julegavetreet 2020",
         by: "Coop Byglandsfjord",
         message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
-        link: "https://www.facebook.com/eoghrodekors",
+        link: "https://www.facebook.com/eoghrodekors/posts/2802681709990298",
         lng: 7.805542,
         lat: 58.670209
     },
@@ -733,7 +733,7 @@ const innsamlinger = [
         navn: "Julegavetreet 2020",
         by: "Joker Bygland",
         message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
-        link: "https://www.facebook.com/eoghrodekors",
+        link: "https://www.facebook.com/eoghrodekors/posts/2802681709990298",
         lng: 7.797972,
         lat: 58.831155
     },
