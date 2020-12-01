@@ -763,7 +763,7 @@ const addMarker = (innsamlinger) => {
         <h3>${innsamlinger.navn}</h3>
         <p>${innsamlinger.by}</p>
         <div>
-        <a href="${innsamlinger.link}"><b>Trykk her for mer info</b></a>
+        <a target="_blank" href="${innsamlinger.link}"><b>Trykk her for mer info</b></a>
         <p>${innsamlinger.message}</p>
         </div>
     </div>
