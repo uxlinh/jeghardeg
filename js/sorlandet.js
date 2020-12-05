@@ -389,15 +389,6 @@ const innsamlinger = [
     {
         avatarUrl: "../img/gaveicon.svg",
         navn: "Ensomt juletre søker gaver",
-        by: "Oslo - Clarion Collection Hotel Folketeateret",
-        message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
-        link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
-        lng: 10.750704, 
-        lat: 59.913864
-    },
-    {
-        avatarUrl: "../img/gaveicon.svg",
-        navn: "Ensomt juletre søker gaver",
         by: "Oslo - Clarion Collection Hotel Bastion",
         message: "Hvert år i førjulstiden står det juletrær i hotellobbyene våre. Klare til å ta imot gaver fra storhjertede fremmede og så gi dem videre til barn i nærområdet som trenger litt ekstra julemagi. I år er det kanskje viktigere enn tidligere at julen føles så normal som mulig. <br> <br> *Ikke alle hotell har trærne oppe like lenge, så for å være sikker på at du kommer til et pyntet tre, ta turen en gang melllom 1. og 16. desember. *",
         link: "https://www.nordicchoicehotels.no/blog/naere-hjertet/ensomt-juletre-soker-gaver/?fbclid=IwAR1BETtJn4N8OKmmBPwSlXryhidp6LLCvZCrF0l-xgwg4_khkhBSmVXrDCI",
@@ -745,6 +736,15 @@ const innsamlinger = [
         link: "https://www.facebook.com/eoghrodekors/posts/2802681709990298",
         lng: 7.797972,
         lat: 58.831155
+    },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Fattighuset",
+        by: "Grønlandsleiret 39 - Oslo",
+        message: "Fattighuset har mottak av julegaver julen 2020 🎅🎄<br> Gavene skal ikke være innpakket, og kan leveres på onsdager mellom klokken 16:00-20:00 og på lørdager fra klokken 12:00-18:00. Det beste er om julegavene er levert til Fattighuset senest 16.desember. <br>I jula deler Fattighuset ut kun nye ting til sine gjester, da de resten av året får brukt. Pga korona-tiltak tar de dessverre ikke i mot brukte ting og klær.<br> </b> For de som ikke har mulighet til å oppsøke fattighuset selv, kan man donere penger via Vipps 12901, øremerket ''julegaver''. Beløpet går direkte til organisasjonen.</b>",
+        link: "https://www.facebook.com/fattighuset/posts/3581464148563144",
+        lng: 10.767012684995354,
+        lat: 59.91112434698297
     },
 ]
 
