@@ -755,6 +755,15 @@ const innsamlinger = [
         lng: 10.767012684995354,
         lat: 59.91112434698297
     },
+    {
+        avatarUrl: "../img/gaveicon.svg",
+        navn: "Gateteam Oslo",
+        by: "Grønlandsleiret 39 - Oslo",
+        message: "Ønsker du å bli med å utgjøre en forskjell? Da er du hjertelig velkommen til å bidra en- eller flere onsdager hos Gateteam Oslo. De trenger hyggelige mennesker til varierte oppgaver, slik at de på gata kan få varme klær, mat og drikke etc. Gateteam Oslo møter på Jernbanetorget hver onsdag kl 18. Her deler de ut soveposer, sko, varme klær, mat, varm drikke og andre nødvendigheter. I koronatiden stiller de med ambulerende team som går rundt i gatenne og deler ut ferdiglagde poser. Bidra ved å kontakte dem via deres nettside ved å trukke på (Trykk her for mer info).",
+        link: "https://gateteamoslo.no/gi-bidrag/",
+        lng: 10.750108629759245,
+        lat: 59.91117897393324
+    },
 ]
 
 
