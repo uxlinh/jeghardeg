@@ -243,6 +243,9 @@ a {
     justify-content: center;
     text-align: center;
     padding: 5rem; }
+    .header__textbox--bg-green {
+      background-color: rgba(1, 49, 44, 0.6);
+      padding: 10rem 16rem; }
 
 .julegaveinnsamling {
   display: flex;
