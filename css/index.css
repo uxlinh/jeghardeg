@@ -41,7 +41,7 @@ body {
 
 .heading-primary {
   font-family: "Merriweather", serif;
-  color: #B32739;
+  color: #f7f7f7;
   font-weight: 700; }
   .heading-primary--main {
     font-size: 9rem;
@@ -80,7 +80,7 @@ body {
   .heading-secondary--light {
     color: #f7f7f7; }
   .heading-secondary--dark {
-    color: #123B77; }
+    color: #01312C; }
 
 .heading-tertiary {
   font-family: "Merriweather", serif;
@@ -88,7 +88,7 @@ body {
   font-weight: 900;
   margin-top: 1rem;
   margin-bottom: .5rem;
-  color: #123B77; }
+  color: #01312C; }
 
 .body {
   font-family: "Poppins", sans-serif;
@@ -106,13 +106,13 @@ body {
     color: #f7f7f7;
     margin-bottom: 1.5rem; }
   .body-blue {
-    color: #123B77;
+    color: #01312C;
     margin-bottom: 1.5rem; }
-  .body-black {
-    color: #000;
+  .body-p {
+    color: #f7f7f7;
     margin-bottom: 1.5rem; }
   .body-slagord {
-    color: #123B77;
+    color: #01312C;
     margin-bottom: 0; }
   .body-footer {
     font-size: 1.8rem;
@@ -120,7 +120,7 @@ body {
     text-align: center; }
   .body-email {
     font-size: 1.7rem;
-    color: #123B77; }
+    color: #01312C; }
 
 .center-text {
   text-align: center; }
@@ -166,7 +166,7 @@ a {
   margin: 0 auto;
   width: 100%; }
   .section-dark {
-    background-color: #123B77; }
+    background-color: #01312C; }
   .section-light {
     background-color: #f3f3f3e3; }
 
@@ -182,7 +182,7 @@ a {
       grid-column: 2 / 12; } }
 
 .background-blue {
-  background-color: #123B77; }
+  background-color: #01312C; }
 
 .header {
   background-image: url("../img/hero.png");
@@ -236,12 +236,13 @@ a {
     grid-column: 4 / 10;
     grid-row: 1 / 2; }
   .header__textbox {
-    height: 90%;
+    height: 100%;
     display: flex;
     flex-flow: column;
     align-items: center;
     justify-content: center;
-    text-align: center; }
+    text-align: center;
+    padding: 5rem; }
 
 .julegaveinnsamling {
   display: flex;
@@ -328,7 +329,7 @@ li:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #123B77;
+  color: #01312C;
   font-family: "Poppins", sans-serif;
   font-size: 2rem; }
   @media (max-width: 37.5em) {
@@ -350,7 +351,7 @@ li:hover {
   background: #fff;
   font-size: 2rem;
   font-family: "Poppins", sans-serif;
-  color: #123B77;
+  color: #01312C;
   transition: all 0.4s ease; }
   @media (max-width: 56.25em) {
     .dropdown-btn {
@@ -405,7 +406,7 @@ li:hover {
         max-width: 80px; } }
 
 .body__kart {
-  background-color: #123B77; }
+  background-color: #01312C; }
 
 .main__kart {
   height: 100vh;
@@ -446,7 +447,7 @@ li:hover {
   text-decoration: none;
   font-size: 1.6rem;
   font-family: "Poppins", sans-serif;
-  color: #123B77; }
+  color: #01312C; }
 
 #kartet {
   width: 100vw;
@@ -458,7 +459,7 @@ li:hover {
   align-items: center;
   padding: 0; }
   .popup-container a {
-    color: #123B77; }
+    color: #01312C; }
 
 .mapboxgl-popup-content {
   padding: 1rem;
@@ -506,12 +507,12 @@ li:hover {
       width: 100%; } }
   .form__input:focus {
     outline: none;
-    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1rem 2rem rgba(247, 247, 247, 0.1);
     border-bottom: 3px solid #f7f7f7; }
   .form__input:focus:invalid {
-    border-bottom: 3px solid #B32739; }
+    border-bottom: 3px solid #f7f7f7; }
   .form__input::-webkit-input-placeholder {
-    color: rgba(18, 59, 119, 0.3); }
+    color: rgba(1, 49, 44, 0.3); }
 
 .form__label {
   color: #f3f3f3e3;
@@ -535,7 +536,7 @@ li:hover {
   text-decoration: none;
   font-size: 2rem;
   font-family: "Poppins", sans-serif;
-  color: #123B77; }
+  color: #01312C; }
 
 .popup {
   height: 100vh;
@@ -543,7 +544,7 @@ li:hover {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(247, 247, 247, 0.8);
   z-index: 9999;
   opacity: 0;
   visibility: hidden;
@@ -554,8 +555,8 @@ li:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 40%;
-    background-color: #123B77;
-    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    background-color: #01312C;
+    box-shadow: 0 2rem 4rem rgba(247, 247, 247, 0.2);
     border-radius: .3rem;
     overflow: hidden;
     opacity: 0;
@@ -595,7 +596,7 @@ li:hover {
     display: inline-block;
     transition: all .2s;
     line-height: 1;
-    color: #123B77;
+    color: #01312C;
     background-color: white; }
 
 video {

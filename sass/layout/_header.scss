@@ -64,11 +64,12 @@
     }
     
     &__textbox{
-        height: 90%;
+        height: 100%;
         display: flex;
         flex-flow: column;
         align-items: center;
         justify-content: center;
         text-align: center;
+        padding: 5rem;
     }
 }
