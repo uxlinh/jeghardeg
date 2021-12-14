@@ -35,3 +35,13 @@
         }
     }
 }
+
+.nyheter{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    &--box{
+        align-items: center;
+    }
+}
