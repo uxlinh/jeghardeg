@@ -75,6 +75,9 @@
         &--bg-green{
             background-color: rgba(1, 49, 44, 0.6);
             padding: 10rem 16rem;
+            @include respond(phone){
+                padding: 10vw 16vw;
+            }
         }
     }
 }
