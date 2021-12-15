@@ -676,10 +676,10 @@ const innsamlinger = [
     },
     {
         avatarUrl: "../img/gaveicon.svg",
-        navn: "Vennesla Kirke - Julegavetreet",
+        navn: "Vennesla - Julegavetreet",
         by: "Vennesla",
-        message: "Ved å gi penger via Julegavetreet er du med på å gi barn i Vennesla kommune den julegaven de ønsker seg. Julegavetreet i år kun gjelder gaveønsker fra personer i aldersgruppen 0-18 år. Vennesla kirke, vil stå for innkjøp av de ønskede gavene, men vi er avhengige av din hjelp. Det skjer ved at du gir penger til prosjektet slik at alle gaveønskene kan bli innfridd. <br><br>  Du kan gi ved å bruke vipps nr: 500828 eller sende penger til konto nr: 3000.37.98158. <br><br> Ved julestallen i sentrum er det mulighet for å gi kontanter. <br><br> Tusen takk på vegne av alle de barna som får akkurat den julegaven de ønsker seg i år.",
-        link: "https://www.facebook.com/Venneslakirke/videos/julegavetreet/2145320812386530/",
+        message: "Har du lyst å glede noen med å få oppfylt sitt julegaveønske? 🎁 Julegavetreet er på plass i gågata (utenfor Kulturhuset) i år igjen 😊 Hvis du ønsker å bidra kan du ta med en lapp fra treet, kjøpe gaven og levere den i Servicetorget på Herredshuset i Vennesla sentrum. De passer på at gavene kommer til riktig person 😊 Under Julegada har Servicetorget åpent mandag-fredag fra kl 10-20, lørdag kl. 12-18 og søndag kl 13-18.",
+        link: "https://www.facebook.com/117394291637979/posts/4876072829103411/?d=n",
         lng: 7.969101,
         lat: 58.276414
     },
