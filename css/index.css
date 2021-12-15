@@ -136,7 +136,8 @@ a {
 
 .link {
   color: white;
-  text-decoration: underline; }
+  text-decoration: underline;
+  font-weight: 300; }
 
 .link:hover {
   color: white; }
