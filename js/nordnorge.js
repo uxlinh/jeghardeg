@@ -694,10 +694,10 @@ const innsamlinger = [
     },
     {
         avatarUrl: "../img/gaveicon.svg",
-        navn: "Julegavetreet 2020",
-        by: "Europris Evje",
-        message: "Til deg som ønsker å bidra: <br> Finn et juletre med en ønskelapp på. <br> Kjøp gaven og lever den sammen med lappen på et av stedene med juletre. <br> Alt er anonymt, kun den som tar imot ønsket vet hvem lappen tilhører.....derfor viktig å levere med lappen du hentet på et juletre. <br> Har du ikke mulighet å kjøpe gave så kan en og betale inn en valgfri sum og vi ordner dette for dere. <br> Kontonummer som kan brukes er: 2901.22.11048 <br> Vippsnr: 129064, Evje og Hornnes Røde Kors <br> <b>Merk gjerne med Julegavetreet, julemat eller bare jul</b>",
-        link: "https://www.facebook.com/eoghrodekors/posts/2802681709990298",
+        navn: "Julegavetreet 2021 Evje og Hornnes Røde Kors ",
+        by: "Evje sentrum, Coop Byglandsfjord, Joker Bygland og i Åseral",
+        message: "ulegavetreet står i sentrum på Evje i morgen også fra kl.11.00 ved boden til Evje og Hornnes Sanitetsforening. Det er mange lapper igjen som venter på å bli oppfylt. I tillegg er det tre ved Coop på Byglandsfjord, Joker på Bygland og i Åseral. Har du lyst å oppfylle vet ønske men ikke skal på handletur så kan du vippse til 129064 så kan vi ordne en gave 😊",
+        link: "https://www.facebook.com/1646305135627967/posts/3086856161572850/?d=n",
         lng: 7.786626,
         lat: 58.580494
     },
