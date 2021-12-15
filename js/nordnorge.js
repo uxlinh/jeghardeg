@@ -43,7 +43,7 @@ const innsamlinger = [
         navn: "Med hjerte for Solør",
         by: "Solør",
         message: "Vi er en non-profitt organisasjon som baserer vår drift 100% på frivillighet, gaver, donasjoner og engasjement fra sambygdinger.Det hele startet julen 2016 da jeg(Linn) la ut en status på facebook om at jeg hadde en del julegaver til overs dersom det var noen som ikke hadde råd til å kjøpe gaver til barna sine.",
-        link: "https://www.facebook.com/Hjerteforsolor/",
+        link: "https://www.facebook.com/210470026026990/posts/1188120694928580/?d=n",
         lng: 12.070018,
         lat: 60.608775
     },
@@ -696,8 +696,8 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "Triaden Lørenskog Storsenter",
         by: "Lørenskog",
-        message: "Gi en julegave til noen som trenger hjelp ❤️ <br><br>I år hjelper vi Hjelpende hender med innsamling av julegaver. <br><br> Vil du hjelpe? Slik gjør du: <br> Velg ett ønske fra juletreet som står utenfor Kicks <br> Kjøp gave og fest ønskelappen på gaven <br> Legg gaven i gaveboksen som står utenfor Infomasjonen",
-        link: "https://www.facebook.com/Triaden/posts/10156495613057706",
+        message: "Gi en julegave til noen som trenger det  <br><br>Som i fjor hjelper vi Hjelpende Hender  å samle inn julegaver til de som trenger det. Utenfor Christiania Glasmagasin henger det lapper med julegaveønsker. <br>Vi og Hjelpende Hender setter stor pris på alle bidrag",
+        link: "https://www.facebook.com/158966577705/posts/10157092214967706/?d=n",
         lng: 10.953053,
         lat: 59.919455
     },
@@ -750,8 +750,8 @@ const innsamlinger = [
         avatarUrl: "../img/gaveicon.svg",
         navn: "Fattighuset",
         by: "Grønlandsleiret 39 - Oslo",
-        message: "Fattighuset har mottak av julegaver julen 2020 🎅🎄<br> Gavene skal ikke være innpakket, og kan leveres på onsdager mellom klokken 16:00-20:00 og på lørdager fra klokken 12:00-18:00. Det beste er om julegavene er levert til Fattighuset senest 16.desember. <br>I jula deler Fattighuset ut kun nye ting til sine gjester, da de resten av året får brukt. Pga korona-tiltak tar de dessverre ikke i mot brukte ting og klær.<br> </b> For de som ikke har mulighet til å oppsøke fattighuset selv, kan man donere penger via Vipps 12901, øremerket ''julegaver''. Beløpet går direkte til organisasjonen.</b>",
-        link: "https://www.facebook.com/fattighuset/posts/3581464148563144",
+        message: "Ønsker du å donere noe til fattige i Oslo? <br> Våre flinke frivillige jobber i utvidet åpningstid for å motta gaver: - Onsdager: 16:00 til 20:00 <br> Lørdager: 12:00 til 18:00 Første utvidet åpningsdag er lørdag 27. november og siste åpningsdag er 18. desember. <br> Dersom disse tidene ikke passer for deg, vennligst ring resepsjon på tlf. 478 95 268 alle hverdager fra 09:00 – 15:30. <br> I julen deler vi ut kun nye ting til våre gjester da de resten av året får brukt. <br> Økonomiske donasjoner mottas til Kontonummer - 1503.23.49002 eller på VIPPS - 12901. <br>",
+        link: "https://www.facebook.com/119189971457263/posts/4748689498507264/?d=n",
         lng: 10.767012684995354,
         lat: 59.91112434698297
     },
