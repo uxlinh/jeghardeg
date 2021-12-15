@@ -135,7 +135,8 @@ a {
   text-decoration: none; }
 
 .link {
-  color: white; }
+  color: white;
+  text-decoration: underline; }
 
 .link:hover {
   color: white; }
